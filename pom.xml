@@ -39,6 +39,7 @@
 
 <!-- El Build -->
     <build>
+        <defaultGoal>install</defaultGoal>
         <plugins>
             <!-- Analisis de Estatico -->
             <plugin>
